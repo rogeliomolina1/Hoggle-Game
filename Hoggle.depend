@@ -1,0 +1,650 @@
+# depslib dependency file v1.0
+1350685010 source:c:\users\cschatz\desktop\hoggle-codeblocks\hgraphics.cpp
+	"hgraphics.h"
+	"lpclib.h"
+	"vector.h"
+
+1476230282 c:\users\cschatz\desktop\hoggle-codeblocks\hgraphics.h
+	<string>
+
+1350757839 c:\users\cschatz\desktop\hoggle-codeblocks\lpclib.h
+	<string>
+	<iostream>
+	<iomanip>
+	<fstream>
+
+1346350165 c:\users\cschatz\desktop\hoggle-codeblocks\vector.h
+	"lpclib.h"
+	"foreach.h"
+	"private/vector.h"
+	"private/vector.cpp"
+
+1347928011 c:\users\cschatz\desktop\hoggle-codeblocks\foreach.h
+	<ios>
+	<fstream>
+	<sstream>
+
+1315191360 c:\users\cschatz\desktop\hoggle-codeblocks\private\vector.h
+
+1347927600 c:\users\cschatz\desktop\hoggle-codeblocks\private\vector.cpp
+
+1350761680 source:c:\users\cschatz\desktop\hoggle-codeblocks\lexicon.cpp
+	"lexicon.h"
+	"lpclib.h"
+	<fstream>
+	<cstring>
+	<algorithm>
+	"foreach.h"
+
+1350761680 c:\users\cschatz\desktop\hoggle-codeblocks\lexicon.h
+	<string>
+	<set>
+	"lpclib.h"
+	<cctype>
+
+1350762659 source:c:\users\cschatz\desktop\hoggle-codeblocks\lpclib.cpp
+	<iostream>
+	<ctime>
+	<stdlib.h>
+	<stdarg.h>
+	<map>
+	"lpclib.h"
+
+1350761745 source:c:\users\cschatz\desktop\hoggle-codeblocks\lpclib_console.cpp
+	<iostream>
+	<sstream>
+	<conio.h>
+	<stdlib.h>
+	"lpclib.h"
+
+1329595051 source:c:\users\cschatz\desktop\hoggle-codeblocks\lpclib_convert.cpp
+	<iostream>
+	<sstream>
+	"lpclib.h"
+
+1350755418 source:c:\users\cschatz\desktop\hoggle-codeblocks\lpclib_db.cpp
+	<iostream>
+	<sstream>
+	"lpclib.h"
+	"vector.h"
+
+1350675167 source:c:\users\cschatz\desktop\hoggle-codeblocks\lpclib_graphics.cpp
+	<iostream>
+	<map>
+	"CImg.h"
+	"lpclib.h"
+	"vector.h"
+
+1333391876 c:\users\cschatz\desktop\hoggle-codeblocks\cimg.h
+	<cstdio>
+	<cstdlib>
+	<cstdarg>
+	<cstring>
+	<cmath>
+	<ctime>
+	<exception>
+	<sys/types.h>
+	<sys/time.h>
+	<unistd.h>
+	<windows.h>
+	<shlobj.h>
+	<io.h>
+	<stdio.h>
+	<X11/Xlib.h>
+	<X11/Xutil.h>
+	<X11/keysym.h>
+	<pthread.h>
+	<sys/ipc.h>
+	<sys/shm.h>
+	<X11/extensions/XShm.h>
+	<X11/extensions/Xrandr.h>
+	"omp.h"
+	<cstddef>
+	"cv.h"
+	"highgui.h"
+	"png.h"
+	"jpeglib.h"
+	"setjmp.h"
+	"tiffio.h"
+	"minc2.h"
+	"avformat.h"
+	"avcodec.h"
+	"swscale.h"
+	"zlib.h"
+	"Magick++.h"
+	"fftw3.h"
+	"Board.h"
+	"ImfRgbaFile.h"
+	"ImfInputFile.h"
+	"ImfChannelList.h"
+	"ImfMatrixAttribute.h"
+	"ImfArray.h"
+	"CImg.h"
+
+1331791708 source:c:\users\cschatz\desktop\hoggle-codeblocks\lpclib_random.cpp
+	<iostream>
+	<stdlib.h>
+	"lpclib.h"
+
+1476230282 source:c:\users\cschatz\desktop\hoggle-codeblocks\main.cpp
+	"lpclib.h"
+	"hgraphics.h"
+
+1348528348 source:c:\users\cschatz\desktop\hoggle-codeblocks\scanner.cpp
+	"scanner.h"
+	<cctype>
+	<iostream>
+
+1346884267 c:\users\cschatz\desktop\hoggle-codeblocks\scanner.h
+	"lpclib.h"
+	"stack.h"
+	<string>
+	<iostream>
+	"private/scanner.h"
+
+1315191410 c:\users\cschatz\desktop\hoggle-codeblocks\stack.h
+	"vector.h"
+	"private/stack.h"
+	"private/stack.cpp"
+
+1315191360 c:\users\cschatz\desktop\hoggle-codeblocks\private\stack.h
+
+1315191360 c:\users\cschatz\desktop\hoggle-codeblocks\private\stack.cpp
+
+1346886600 c:\users\cschatz\desktop\hoggle-codeblocks\private\scanner.h
+
+1476306937 source:c:\users\rogel\desktop\hoggle-materials-1\hoggle-materials\hoggle-codeblocks\hgraphics.cpp
+	"hgraphics.h"
+	"lpclib.h"
+	"vector.h"
+
+1476306937 c:\users\rogel\desktop\hoggle-materials-1\hoggle-materials\hoggle-codeblocks\hgraphics.h
+	<string>
+
+1476306940 c:\users\rogel\desktop\hoggle-materials-1\hoggle-materials\hoggle-codeblocks\lpclib.h
+	<string>
+	<iostream>
+	<iomanip>
+	<fstream>
+
+1476306942 c:\users\rogel\desktop\hoggle-materials-1\hoggle-materials\hoggle-codeblocks\vector.h
+	"lpclib.h"
+	"foreach.h"
+	"private/vector.h"
+	"private/vector.cpp"
+
+1476306937 c:\users\rogel\desktop\hoggle-materials-1\hoggle-materials\hoggle-codeblocks\foreach.h
+	<ios>
+	<fstream>
+	<sstream>
+
+1476306943 c:\users\rogel\desktop\hoggle-materials-1\hoggle-materials\hoggle-codeblocks\private\vector.h
+
+1476306943 c:\users\rogel\desktop\hoggle-materials-1\hoggle-materials\hoggle-codeblocks\private\vector.cpp
+
+1476306937 source:c:\users\rogel\desktop\hoggle-materials-1\hoggle-materials\hoggle-codeblocks\lexicon.cpp
+	"lexicon.h"
+	"lpclib.h"
+	<fstream>
+	<cstring>
+	<algorithm>
+	"foreach.h"
+
+1476306938 c:\users\rogel\desktop\hoggle-materials-1\hoggle-materials\hoggle-codeblocks\lexicon.h
+	<string>
+	<set>
+	"lpclib.h"
+	<cctype>
+
+1476306940 source:c:\users\rogel\desktop\hoggle-materials-1\hoggle-materials\hoggle-codeblocks\lpclib.cpp
+	<iostream>
+	<ctime>
+	<stdlib.h>
+	<stdarg.h>
+	<map>
+	"lpclib.h"
+
+1476306940 source:c:\users\rogel\desktop\hoggle-materials-1\hoggle-materials\hoggle-codeblocks\lpclib_console.cpp
+	<iostream>
+	<sstream>
+	<conio.h>
+	<stdlib.h>
+	"lpclib.h"
+
+1476306940 source:c:\users\rogel\desktop\hoggle-materials-1\hoggle-materials\hoggle-codeblocks\lpclib_convert.cpp
+	<iostream>
+	<sstream>
+	"lpclib.h"
+
+1476306940 source:c:\users\rogel\desktop\hoggle-materials-1\hoggle-materials\hoggle-codeblocks\lpclib_db.cpp
+	<iostream>
+	<sstream>
+	"lpclib.h"
+	"vector.h"
+
+1476306940 source:c:\users\rogel\desktop\hoggle-materials-1\hoggle-materials\hoggle-codeblocks\lpclib_graphics.cpp
+	<iostream>
+	<map>
+	"CImg.h"
+	"lpclib.h"
+	"vector.h"
+
+1476306937 c:\users\rogel\desktop\hoggle-materials-1\hoggle-materials\hoggle-codeblocks\cimg.h
+	<cstdio>
+	<cstdlib>
+	<cstdarg>
+	<cstring>
+	<cmath>
+	<ctime>
+	<exception>
+	<sys/types.h>
+	<sys/time.h>
+	<unistd.h>
+	<windows.h>
+	<shlobj.h>
+	<io.h>
+	<stdio.h>
+	<X11/Xlib.h>
+	<X11/Xutil.h>
+	<X11/keysym.h>
+	<pthread.h>
+	<sys/ipc.h>
+	<sys/shm.h>
+	<X11/extensions/XShm.h>
+	<X11/extensions/Xrandr.h>
+	"omp.h"
+	<cstddef>
+	"cv.h"
+	"highgui.h"
+	"png.h"
+	"jpeglib.h"
+	"setjmp.h"
+	"tiffio.h"
+	"minc2.h"
+	"avformat.h"
+	"avcodec.h"
+	"swscale.h"
+	"zlib.h"
+	"Magick++.h"
+	"fftw3.h"
+	"Board.h"
+	"ImfRgbaFile.h"
+	"ImfInputFile.h"
+	"ImfChannelList.h"
+	"ImfMatrixAttribute.h"
+	"ImfArray.h"
+	"CImg.h"
+
+1476306940 source:c:\users\rogel\desktop\hoggle-materials-1\hoggle-materials\hoggle-codeblocks\lpclib_random.cpp
+	<iostream>
+	<stdlib.h>
+	"lpclib.h"
+
+1476306941 source:c:\users\rogel\desktop\hoggle-materials-1\hoggle-materials\hoggle-codeblocks\scanner.cpp
+	"scanner.h"
+	<cctype>
+	<iostream>
+
+1476306941 c:\users\rogel\desktop\hoggle-materials-1\hoggle-materials\hoggle-codeblocks\scanner.h
+	"lpclib.h"
+	"stack.h"
+	<string>
+	<iostream>
+	"private/scanner.h"
+
+1476306941 c:\users\rogel\desktop\hoggle-materials-1\hoggle-materials\hoggle-codeblocks\stack.h
+	"vector.h"
+	"private/stack.h"
+	"private/stack.cpp"
+
+1476306943 c:\users\rogel\desktop\hoggle-materials-1\hoggle-materials\hoggle-codeblocks\private\stack.h
+
+1476306943 c:\users\rogel\desktop\hoggle-materials-1\hoggle-materials\hoggle-codeblocks\private\stack.cpp
+
+1476306943 c:\users\rogel\desktop\hoggle-materials-1\hoggle-materials\hoggle-codeblocks\private\scanner.h
+
+1477209536 source:c:\users\rogel\desktop\hoggle-materials-1\hoggle-materials\hoggle-codeblocks\main.cpp
+	"HoggleFunctions.h"
+
+1477204624 source:c:\users\rogel\desktop\hoggle-materials-1\hoggle-materials\hoggle-codeblocks\hogglefunctions.cpp
+	"HoggleFunctions.h"
+
+1477204624 c:\users\rogel\desktop\hoggle-materials-1\hoggle-materials\hoggle-codeblocks\hogglefunctions.h
+	"lexicon.h"
+	"lpclib.h"
+	"hgraphics.h"
+	<vector>
+	<fstream>
+	<algorithm>
+	<sstream>
+
+1476303337 source:c:\users\rogel\google drive\cs\hoggle-codeblocks\hgraphics.cpp
+	"hgraphics.h"
+	"lpclib.h"
+	"vector.h"
+
+1476303337 c:\users\rogel\google drive\cs\hoggle-codeblocks\hgraphics.h
+	<string>
+
+1476303340 c:\users\rogel\google drive\cs\hoggle-codeblocks\lpclib.h
+	<string>
+	<iostream>
+	<iomanip>
+	<fstream>
+
+1476303342 c:\users\rogel\google drive\cs\hoggle-codeblocks\vector.h
+	"lpclib.h"
+	"foreach.h"
+	"private/vector.h"
+	"private/vector.cpp"
+
+1476303337 c:\users\rogel\google drive\cs\hoggle-codeblocks\foreach.h
+	<ios>
+	<fstream>
+	<sstream>
+
+1476303343 c:\users\rogel\google drive\cs\hoggle-codeblocks\private\vector.h
+
+1476303343 c:\users\rogel\google drive\cs\hoggle-codeblocks\private\vector.cpp
+
+1477259628 source:c:\users\rogel\google drive\cs\hoggle-codeblocks\hogglefunctions.cpp
+	"HoggleFunctions.h"
+
+1477201024 c:\users\rogel\google drive\cs\hoggle-codeblocks\hogglefunctions.h
+	"lexicon.h"
+	"lpclib.h"
+	"hgraphics.h"
+	<vector>
+	<fstream>
+	<algorithm>
+	<sstream>
+
+1476303338 c:\users\rogel\google drive\cs\hoggle-codeblocks\lexicon.h
+	<string>
+	<set>
+	"lpclib.h"
+	<cctype>
+
+1476303337 source:c:\users\rogel\google drive\cs\hoggle-codeblocks\lexicon.cpp
+	"lexicon.h"
+	"lpclib.h"
+	<fstream>
+	<cstring>
+	<algorithm>
+	"foreach.h"
+
+1476303340 source:c:\users\rogel\google drive\cs\hoggle-codeblocks\lpclib.cpp
+	<iostream>
+	<ctime>
+	<stdlib.h>
+	<stdarg.h>
+	<map>
+	"lpclib.h"
+
+1476303340 source:c:\users\rogel\google drive\cs\hoggle-codeblocks\lpclib_console.cpp
+	<iostream>
+	<sstream>
+	<conio.h>
+	<stdlib.h>
+	"lpclib.h"
+
+1476303340 source:c:\users\rogel\google drive\cs\hoggle-codeblocks\lpclib_convert.cpp
+	<iostream>
+	<sstream>
+	"lpclib.h"
+
+1476303340 source:c:\users\rogel\google drive\cs\hoggle-codeblocks\lpclib_db.cpp
+	<iostream>
+	<sstream>
+	"lpclib.h"
+	"vector.h"
+
+1476303340 source:c:\users\rogel\google drive\cs\hoggle-codeblocks\lpclib_graphics.cpp
+	<iostream>
+	<map>
+	"CImg.h"
+	"lpclib.h"
+	"vector.h"
+
+1476303337 c:\users\rogel\google drive\cs\hoggle-codeblocks\cimg.h
+	<cstdio>
+	<cstdlib>
+	<cstdarg>
+	<cstring>
+	<cmath>
+	<ctime>
+	<exception>
+	<sys/types.h>
+	<sys/time.h>
+	<unistd.h>
+	<windows.h>
+	<shlobj.h>
+	<io.h>
+	<stdio.h>
+	<X11/Xlib.h>
+	<X11/Xutil.h>
+	<X11/keysym.h>
+	<pthread.h>
+	<sys/ipc.h>
+	<sys/shm.h>
+	<X11/extensions/XShm.h>
+	<X11/extensions/Xrandr.h>
+	"omp.h"
+	<cstddef>
+	"cv.h"
+	"highgui.h"
+	"png.h"
+	"jpeglib.h"
+	"setjmp.h"
+	"tiffio.h"
+	"minc2.h"
+	"avformat.h"
+	"avcodec.h"
+	"swscale.h"
+	"zlib.h"
+	"Magick++.h"
+	"fftw3.h"
+	"Board.h"
+	"ImfRgbaFile.h"
+	"ImfInputFile.h"
+	"ImfChannelList.h"
+	"ImfMatrixAttribute.h"
+	"ImfArray.h"
+	"CImg.h"
+
+1476303340 source:c:\users\rogel\google drive\cs\hoggle-codeblocks\lpclib_random.cpp
+	<iostream>
+	<stdlib.h>
+	"lpclib.h"
+
+1477205936 source:c:\users\rogel\google drive\cs\hoggle-codeblocks\main.cpp
+	"HoggleFunctions.h"
+
+1476303341 source:c:\users\rogel\google drive\cs\hoggle-codeblocks\scanner.cpp
+	"scanner.h"
+	<cctype>
+	<iostream>
+
+1476303341 c:\users\rogel\google drive\cs\hoggle-codeblocks\scanner.h
+	"lpclib.h"
+	"stack.h"
+	<string>
+	<iostream>
+	"private/scanner.h"
+
+1476303341 c:\users\rogel\google drive\cs\hoggle-codeblocks\stack.h
+	"vector.h"
+	"private/stack.h"
+	"private/stack.cpp"
+
+1476303343 c:\users\rogel\google drive\cs\hoggle-codeblocks\private\stack.h
+
+1476303343 c:\users\rogel\google drive\cs\hoggle-codeblocks\private\stack.cpp
+
+1476303343 c:\users\rogel\google drive\cs\hoggle-codeblocks\private\scanner.h
+
+1476306937 source:c:\users\rogel\google drive\hoggle-codeblocks\hgraphics.cpp
+	"hgraphics.h"
+	"lpclib.h"
+	"vector.h"
+
+1476306937 c:\users\rogel\google drive\hoggle-codeblocks\hgraphics.h
+	<string>
+
+1476306940 c:\users\rogel\google drive\hoggle-codeblocks\lpclib.h
+	<string>
+	<iostream>
+	<iomanip>
+	<fstream>
+
+1476306942 c:\users\rogel\google drive\hoggle-codeblocks\vector.h
+	"lpclib.h"
+	"foreach.h"
+	"private/vector.h"
+	"private/vector.cpp"
+
+1476306937 c:\users\rogel\google drive\hoggle-codeblocks\foreach.h
+	<ios>
+	<fstream>
+	<sstream>
+
+1476306943 c:\users\rogel\google drive\hoggle-codeblocks\private\vector.h
+
+1476306943 c:\users\rogel\google drive\hoggle-codeblocks\private\vector.cpp
+
+1477263228 source:c:\users\rogel\google drive\hoggle-codeblocks\hogglefunctions.cpp
+	"HoggleFunctions.h"
+
+1477204624 c:\users\rogel\google drive\hoggle-codeblocks\hogglefunctions.h
+	"lexicon.h"
+	"lpclib.h"
+	"hgraphics.h"
+	<vector>
+	<fstream>
+	<algorithm>
+	<sstream>
+
+1476306938 c:\users\rogel\google drive\hoggle-codeblocks\lexicon.h
+	<string>
+	<set>
+	"lpclib.h"
+	<cctype>
+
+1476306937 source:c:\users\rogel\google drive\hoggle-codeblocks\lexicon.cpp
+	"lexicon.h"
+	"lpclib.h"
+	<fstream>
+	<cstring>
+	<algorithm>
+	"foreach.h"
+
+1476306940 source:c:\users\rogel\google drive\hoggle-codeblocks\lpclib.cpp
+	<iostream>
+	<ctime>
+	<stdlib.h>
+	<stdarg.h>
+	<map>
+	"lpclib.h"
+
+1476306940 source:c:\users\rogel\google drive\hoggle-codeblocks\lpclib_console.cpp
+	<iostream>
+	<sstream>
+	<conio.h>
+	<stdlib.h>
+	"lpclib.h"
+
+1476306940 source:c:\users\rogel\google drive\hoggle-codeblocks\lpclib_convert.cpp
+	<iostream>
+	<sstream>
+	"lpclib.h"
+
+1476306940 source:c:\users\rogel\google drive\hoggle-codeblocks\lpclib_db.cpp
+	<iostream>
+	<sstream>
+	"lpclib.h"
+	"vector.h"
+
+1476306940 source:c:\users\rogel\google drive\hoggle-codeblocks\lpclib_graphics.cpp
+	<iostream>
+	<map>
+	"CImg.h"
+	"lpclib.h"
+	"vector.h"
+
+1476306937 c:\users\rogel\google drive\hoggle-codeblocks\cimg.h
+	<cstdio>
+	<cstdlib>
+	<cstdarg>
+	<cstring>
+	<cmath>
+	<ctime>
+	<exception>
+	<sys/types.h>
+	<sys/time.h>
+	<unistd.h>
+	<windows.h>
+	<shlobj.h>
+	<io.h>
+	<stdio.h>
+	<X11/Xlib.h>
+	<X11/Xutil.h>
+	<X11/keysym.h>
+	<pthread.h>
+	<sys/ipc.h>
+	<sys/shm.h>
+	<X11/extensions/XShm.h>
+	<X11/extensions/Xrandr.h>
+	"omp.h"
+	<cstddef>
+	"cv.h"
+	"highgui.h"
+	"png.h"
+	"jpeglib.h"
+	"setjmp.h"
+	"tiffio.h"
+	"minc2.h"
+	"avformat.h"
+	"avcodec.h"
+	"swscale.h"
+	"zlib.h"
+	"Magick++.h"
+	"fftw3.h"
+	"Board.h"
+	"ImfRgbaFile.h"
+	"ImfInputFile.h"
+	"ImfChannelList.h"
+	"ImfMatrixAttribute.h"
+	"ImfArray.h"
+	"CImg.h"
+
+1476306940 source:c:\users\rogel\google drive\hoggle-codeblocks\lpclib_random.cpp
+	<iostream>
+	<stdlib.h>
+	"lpclib.h"
+
+1477209536 source:c:\users\rogel\google drive\hoggle-codeblocks\main.cpp
+	"HoggleFunctions.h"
+
+1476306941 source:c:\users\rogel\google drive\hoggle-codeblocks\scanner.cpp
+	"scanner.h"
+	<cctype>
+	<iostream>
+
+1476306941 c:\users\rogel\google drive\hoggle-codeblocks\scanner.h
+	"lpclib.h"
+	"stack.h"
+	<string>
+	<iostream>
+	"private/scanner.h"
+
+1476306941 c:\users\rogel\google drive\hoggle-codeblocks\stack.h
+	"vector.h"
+	"private/stack.h"
+	"private/stack.cpp"
+
+1476306943 c:\users\rogel\google drive\hoggle-codeblocks\private\stack.h
+
+1476306943 c:\users\rogel\google drive\hoggle-codeblocks\private\stack.cpp
+
+1476306943 c:\users\rogel\google drive\hoggle-codeblocks\private\scanner.h
+
